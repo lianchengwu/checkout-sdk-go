@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"time"
 
-	"github.com/checkout/checkout-sdk-go"
-	"github.com/checkout/checkout-sdk-go/common"
+	"github.com/lianchengwu/checkout-sdk-go"
+	"github.com/lianchengwu/checkout-sdk-go/common"
 )
 
 type (

@@ -1,10 +1,11 @@
 package client
 
 import (
-	"github.com/checkout/checkout-sdk-go"
-	"github.com/stretchr/testify/assert"
 	"os"
 	"testing"
+
+	"github.com/lianchengwu/checkout-sdk-go"
+	"github.com/stretchr/testify/assert"
 )
 
 func TestCreateCheckoutApi(t *testing.T) {
